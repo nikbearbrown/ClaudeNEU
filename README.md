@@ -1,6 +1,6 @@
-### **The AI for Education Project (ClaudeNEU): Building Open-Source Tools for the Future of Learning**  
+### **The Shannon Project (ClaudeNEU): Building Open-Source Tools for the Future of Learning**  
 
-The **AI for Education Project (ClaudeNEU)** at Northeastern University is dedicated to developing **open-source AI tools** that empower educators, students, and researchers. By leveraging **Claude Enterprise**, this initiative is pioneering the creation of **accessible, customizable AI-driven solutions** for education.  
+The **Shannon Project (ClaudeNEU)** at Northeastern University is dedicated to developing **open-source AI tools** that empower educators, students, and researchers. By leveraging **Claude Enterprise**, this initiative is pioneering the creation of **accessible, customizable AI-driven solutions** for education.  
 
 ClaudeNEU focuses on:  
 - **Developing open-source AI tools** which utilize **Large Language Models (LLMs)** to create interactive and adaptive learning experiences.  
@@ -10,9 +10,9 @@ ClaudeNEU focuses on:
 
 By promoting **collaborative development and ethical AI integration**, ClaudeNEU ensures that AI technology **remains open, adaptable, and beneficial for educational communities**. Through these efforts, the project is **reshaping the future of learning** by making AI **more transparent, customizable, and aligned with the needs of students and educators worldwide**.
 
-## The AI for Education Project (ClaudeNEU) at Northeastern University
+## The Shannon Project (ClaudeNEU) at Northeastern University
 
-The **AI for Education Project (ClaudeNEU)** is spearheading the integration of artificial intelligence into educational frameworks, revolutionizing teaching and learning methodologies. This initiative focuses on:
+The **Shannon Project (ClaudeNEU)** is spearheading the integration of artificial intelligence into educational frameworks, revolutionizing teaching and learning methodologies. This initiative focuses on:
 
 - **Developing Open-Source Tools:** Creating tools utilizing Large Language Models (LLMs) for educational enhancements.
 - **Innovative Methods:** Employing prompt engineering and task-specific bots for customized learning experiences, and utilizing vector databases to improve AI model performance.
