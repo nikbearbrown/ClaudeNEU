@@ -54,34 +54,34 @@ After reviewing the current literature on best practices for developing Educatio
 ## ClaudeNEU Menu: How Gen AI Can Help with Teaching
 
 ### Virtual Office Hours Assistant
-- Use LLMs (ChatGPT, Gemma, LLaMA) to automate scheduling, answer common student queries, and provide additional resources during virtual office hours.
+- Use LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to automate scheduling, answer common student queries, and provide additional resources during virtual office hours.
 
 ### Academic Writing Support
-- Collaborate with LLMs (ChatGPT, Gemma, LLaMA) to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
+- Collaborate with LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
 
 ### Realtime Quiz Translation
-Implement LLMs (ChatGPT, Gemma, LLaMA) to instantly translate quizzes and exams into multiple languages, ensuring accessibility for non-native speakers and fostering an inclusive educational environment. This feature can dynamically adapt to various linguistic needs, allowing educators to reach a wider audience and provide equitable learning opportunities for all students, regardless of their primary language.
+Implement LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to instantly translate quizzes and exams into multiple languages, ensuring accessibility for non-native speakers and fostering an inclusive educational environment. This feature can dynamically adapt to various linguistic needs, allowing educators to reach a wider audience and provide equitable learning opportunities for all students, regardless of their primary language.
 
 ### Lecture Enhancement
-- Integrate LLMs (ChatGPT, Gemma, LLaMA) into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
+- Integrate LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
 
 ### Research Assistance
-- Speed up your research process by developing prompt engineering skills utilizing LLMs (ChatGPT, Gemma, LLaMA) for tasks like literature review, hypothesis generation, and data analysis. Explore tools like Scholar AI for researchers.
+- Speed up your research process by developing prompt engineering skills utilizing LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for tasks like literature review, hypothesis generation, and data analysis. Explore tools like Scholar AI for researchers.
 
 ### Language Translation Tool
-- Overcome language barriers by using LLMs (ChatGPT, Gemma, LLaMA) as a translation tool to communicate effectively with a global audience.
+- Overcome language barriers by using LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) as a translation tool to communicate effectively with a global audience.
 
 ### Automated Feedback System
-- Implement LLMs (ChatGPT, Gemma, LLaMA) to provide quick and constructive feedback on assignments, quizzes, and exams.
+- Implement LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to provide quick and constructive feedback on assignments, quizzes, and exams.
 
 ### Student Support Chatbot
 - Develop a chatbot to assist students with general inquiries, course information, and academic resources.
 
 ### Idea Generation Workshops
-- Utilize LLMs (ChatGPT, Gemma, LLaMA) to elevate and organize brainstorming sessions, fostering creativity and generating research ideas.
+- Utilize LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to elevate and organize brainstorming sessions, fostering creativity and generating research ideas.
 
 ### Language Learning Companion
-- Integrate LLMs (ChatGPT, Gemma, LLaMA) into language courses for conversational practice, grammar explanations, and cultural insights.
+- Integrate LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) into language courses for conversational practice, grammar explanations, and cultural insights.
 
 ### Text to Video
 - Explore text-to-video features in tools like OpenAI's Sora to create educational documentaries. [Sora](https://openai.com/sora)
@@ -99,37 +99,37 @@ Key features include:
 By harnessing **Claude Enterprise and Hugging Face models**, this initiative is making **AI-generated imagery more accessible and adaptable** for educators, researchers, and content creators, fostering **a new era of visual learning**.
 
 ### Chatbot Application Development Using Zoom Lecture Transcriptions
-- Leverage LLMs (ChatGPT, Gemma, LLaMA) to automate administrative tasks and provide personalized support by utilizing Zoom lecture transcriptions.
+- Leverage LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to automate administrative tasks and provide personalized support by utilizing Zoom lecture transcriptions.
 
 ### Syllabus-Learning Outcome Alignment
-- Engage LLMs (ChatGPT, Gemma, LLaMA) in aligning course syllabi with learning outcomes, ensuring course content meets educational objectives.
+- Engage LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) in aligning course syllabi with learning outcomes, ensuring course content meets educational objectives.
 
 ### Real-time Student Assessment and Support
-- Utilize LLMs (ChatGPT, Gemma, LLaMA) for developing quizzes and offering real-time support tailored to individual student needs.
+- Utilize LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for developing quizzes and offering real-time support tailored to individual student needs.
 
-### Integration of LLMs (ChatGPT, Gemma, LLaMA) with XR Projects
-- Enhance Extended Reality (XR) projects with LLMs (ChatGPT, Gemma, LLaMA) for real-time assistance and feedback.
+### Integration of LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) with XR Projects
+- Enhance Extended Reality (XR) projects with LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for real-time assistance and feedback.
 
 ### AI-Powered Grading Assistance
-- Streamline grading with LLMs (ChatGPT, Gemma, LLaMA), providing consistent, constructive feedback.
+- Streamline grading with LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA), providing consistent, constructive feedback.
 
 ### Personalized Study Guides
-- Develop LLMs (ChatGPT, Gemma, LLaMA)-powered study guides tailored to individual learning needs.
+- Develop LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA)-powered study guides tailored to individual learning needs.
 
 ### Automated Course Feedback and Improvement
-- Use LLMs (ChatGPT, Gemma, LLaMA) to collect and analyze course feedback for continuous teaching improvement.
+- Use LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to collect and analyze course feedback for continuous teaching improvement.
 
 ### AI-Enhanced Career Guidance
-- Implement LLMs (ChatGPT, Gemma, LLaMA) for personalized career advice based on students' interests and backgrounds.
+- Implement LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for personalized career advice based on students' interests and backgrounds.
 
 ### AI-Enhanced Academic Advising
-- Leverage LLMs (ChatGPT, Gemma, LLaMA) for immediate, accurate academic advising.
+- Leverage LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for immediate, accurate academic advising.
 
 ### AI-Powered Research Support
-- Utilize LLMs (ChatGPT, Gemma, LLaMA) for research tasks like literature review and methodology guidance.
+- Utilize LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for research tasks like literature review and methodology guidance.
 
 ### Multilingual Tutoring and Language Support
-- Offer personalized language tutoring and support using LLMs (ChatGPT, Gemma, LLaMA), aiding international students.
+- Offer personalized language tutoring and support using LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA), aiding international students.
 
 ### "Semesterization"
 - Use AI to support academic structuring into semesters and modularizing courses.
@@ -138,49 +138,49 @@ By harnessing **Claude Enterprise and Hugging Face models**, this initiative is 
 - Develop a system using AI to curate personalized co-op and job pathways.
 
 ### Code Generation
-- Leverage LLMs (ChatGPT, Gemma, LLaMA)'s capabilities to automatically create Python code snippets for Kaggle APIs and competitions.
+- Leverage LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA)'s capabilities to automatically create Python code snippets for Kaggle APIs and competitions.
 
 ### Interactive Q&A
-- Develop a chatbot powered by LLMs (ChatGPT, Gemma, LLaMA) for FAQs about platforms like Kaggle.
+- Develop a chatbot powered by LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for FAQs about platforms like Kaggle.
 
 ### Personalized Support
-- Train LLMs (ChatGPT, Gemma, LLaMA) on forums and discussions to generate personalized responses.
+- Train LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) on forums and discussions to generate personalized responses.
 
 ### Interactive Tutorials
-- Build web-based tutorials where LLMs (ChatGPT, Gemma, LLaMA) explains concepts conversationally.
+- Build web-based tutorials where LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) explains concepts conversationally.
 
 ### Code-Integrated Explanations
-- Integrate LLMs (ChatGPT, Gemma, LLaMA) into notebooks for plain English explanations of code.
+- Integrate LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) into notebooks for plain English explanations of code.
 
 ### Generative Cheat Sheets
-- Use LLMs (ChatGPT, Gemma, LLaMA) to generate concise cheat sheets summarizing key concepts.
+- Use LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to generate concise cheat sheets summarizing key concepts.
 
 ### Automatic Summaries
-- Employ LLMs (ChatGPT, Gemma, LLaMA) to generate bullet-point summaries of solution write-ups.
+- Employ LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to generate bullet-point summaries of solution write-ups.
 
 ### Personalized Digests
-- Train LLMs (ChatGPT, Gemma, LLaMA) on user preferences to deliver personalized summaries of relevant solutions.
+- Train LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) on user preferences to deliver personalized summaries of relevant solutions.
 
 ### Comparative Analysis
-- Use LLMs (ChatGPT, Gemma, LLaMA) for comparative analysis of solutions to identify common approaches and unique techniques.
+- Use LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for comparative analysis of solutions to identify common approaches and unique techniques.
 
 ### Concept Extraction
-- Train LLMs (ChatGPT, Gemma, LLaMA) to identify and explain key concepts in solution write-ups.
+- Train LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) to identify and explain key concepts in solution write-ups.
 
 ### Interactive Exploration
-- Allow users to query LLMs (ChatGPT, Gemma, LLaMA) for detailed explanations and examples based on highlighted concepts.
+- Allow users to query LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for detailed explanations and examples based on highlighted concepts.
 
 ### Concept-Based Recommendation
 - Recommend relevant solutions or tutorials based on concepts extracted from user's current read.
 
 ### Contextual Code Assistance
-- Build a tool with LLMs (ChatGPT, Gemma, LLaMA) for code snippet suggestions based on user's current context.
+- Build a tool with LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) for code snippet suggestions based on user's current context.
 
 ### Debugging Help
-- Train LLMs (ChatGPT, Gemma, LLaMA) on common errors and solutions for debugging assistance.
+- Train LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA) on common errors and solutions for debugging assistance.
 
 ### Interactive Learning Environment
-- Create a platform for users to ask code pr prompt engineering -related questions and receive LLMs (ChatGPT, Gemma, LLaMA)-generated explanations.
+- Create a platform for users to ask code pr prompt engineering -related questions and receive LLMs (Claude Sonnet & ChatGPT, Gemma, LLaMA)-generated explanations.
 
 
    
